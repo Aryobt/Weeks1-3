@@ -149,8 +149,8 @@ Transform:
   m_GameObject: {fileID: 169437686}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.73, y: -0.33, z: 0}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 1}
+  m_LocalPosition: {x: 1.9, y: -0.44, z: 0}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2040855978}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8346a02a8f78d47a2f68c9de29d0ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlanetSpeed: 0.05
+  PlanetSpeed: 0.03
 --- !u!1 &358263538
 GameObject:
   m_ObjectHideFlags: 0
@@ -390,8 +390,8 @@ Transform:
   m_GameObject: {fileID: 381507088}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.1698, y: -0.0277, z: 0}
-  m_LocalScale: {x: 0.729367, y: 0.98936236, z: 1}
+  m_LocalPosition: {x: -0.1749, y: -0.0967, z: 0}
+  m_LocalScale: {x: 1.0181385, y: 1.1325163, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -475,7 +475,7 @@ Transform:
   m_GameObject: {fileID: 759241994}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.47, y: 1.12, z: 0}
+  m_LocalPosition: {x: -1.9, y: 1.23, z: 0}
   m_LocalScale: {x: 0.625, y: 0.625, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -493,7 +493,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8346a02a8f78d47a2f68c9de29d0ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlanetSpeed: 0.05
+  PlanetSpeed: 0.01
 --- !u!1 &1326807847
 GameObject:
   m_ObjectHideFlags: 0
@@ -670,7 +670,7 @@ Transform:
   m_GameObject: {fileID: 1362150244}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.38, z: 0}
+  m_LocalPosition: {x: -0.48, y: -1.38, z: 0}
   m_LocalScale: {x: 0.64996725, y: 0.61659455, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -688,7 +688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8346a02a8f78d47a2f68c9de29d0ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlanetSpeed: 0.05
+  PlanetSpeed: 0.01
 --- !u!1 &1417648226
 GameObject:
   m_ObjectHideFlags: 0
@@ -786,7 +786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8346a02a8f78d47a2f68c9de29d0ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlanetSpeed: 0.05
+  PlanetSpeed: 0.02
 --- !u!1 &2000906788
 GameObject:
   m_ObjectHideFlags: 0
@@ -866,7 +866,7 @@ Transform:
   m_GameObject: {fileID: 2000906788}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.26, y: -0.38, z: 0}
+  m_LocalPosition: {x: -2.09, y: -0.35, z: 0}
   m_LocalScale: {x: 0.625, y: 0.625, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -884,7 +884,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8346a02a8f78d47a2f68c9de29d0ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlanetSpeed: 0.05
+  PlanetSpeed: 0.03
 --- !u!1 &2040855976
 GameObject:
   m_ObjectHideFlags: 0
@@ -1170,7 +1170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef8346a02a8f78d47a2f68c9de29d0ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlanetSpeed: 0.05
+  PlanetSpeed: 0.02
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
