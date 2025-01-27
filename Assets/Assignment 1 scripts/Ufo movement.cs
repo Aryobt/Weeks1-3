@@ -10,7 +10,6 @@ public class Ufomovement : MonoBehaviour
     public AnimationCurve curve;
     public Transform begin;
     public Transform end;
-    public float Ufospeed = 1;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,11 +20,6 @@ public class Ufomovement : MonoBehaviour
     void Update()
     {
         transform.position = Vector2.Lerp(begin.position, end.position, curve.Evaluate(c));
-
-        if((Input.GetKeyUp(KeyCode.Space)
-            {
-            transform.position += transform. * Ufospeed * Time.deltaTime;
-        }
     }
 
 
