@@ -1297,19 +1297,29 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 2
-      outSlope: 2
+      time: 0.49747175
+      value: 0.997243
+      inSlope: 0.008288584
+      outSlope: 0.008288584
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1.005127
+      value: 0.005554199
+      inSlope: 0
+      outSlope: 0
       tangentMode: 0
       weightedMode: 0
       inWeight: 0
       outWeight: 0
     m_PreInfinity: 2
-    m_PostInfinity: 1
+    m_PostInfinity: 0
     m_RotationOrder: 4
   begin: {fileID: 1362150246}
   end: {fileID: 169437687}
+  Ufospeed: 0.5
 --- !u!1 &2124710426
 GameObject:
   m_ObjectHideFlags: 0
