@@ -5,6 +5,7 @@ using UnityEngine;
 public class Planetspin : MonoBehaviour
 {
     public float PlanetSpeed = 0.05f;// a veriable that showcases the speed of rotation of the planet also made public so it can be changed in unity
+
     // Start is called before the first frame update
     void Start()
     {
