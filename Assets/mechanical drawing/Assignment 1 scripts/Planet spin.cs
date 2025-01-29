@@ -15,6 +15,7 @@ public class Planetspin : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //refrenced from the coding gym
         Vector3 planetSpeed = transform.eulerAngles;//update the position of the spinning for a vector3/3d object
 
         planetSpeed.z -= PlanetSpeed;//make the planets spin in the z position because z position is the position where wwe can see the 2d object spinning
