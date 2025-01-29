@@ -22,6 +22,7 @@ public class Ufomovement : MonoBehaviour
     {
        
             c += Time.deltaTime * Ufospeed;// making the movement smoother with Time.deltaTime
+
         if(c > 1)//if the c value is under 1 c is equal to zero
         {
             c = 0;
